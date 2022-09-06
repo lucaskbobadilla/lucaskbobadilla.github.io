@@ -3,9 +3,11 @@
 
 # Hugo
 resources/
-public/
+/public/
 jsconfig.json
 node_modules/
 go.sum
 .hugo_build.lock
 .Rproj.user
+#.DS_Store
+#Thumbs.db
